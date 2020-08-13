@@ -5,6 +5,7 @@
 
 int main()
 {
+    const long today;
     std::cout << "Hello World!\n";
 }
 
